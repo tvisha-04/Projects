@@ -1,6 +1,6 @@
 # Predicting Crude Oil Convenience Yield with a Random Forest
 
-Pulled 10 years of WTI crude oil futures data and trained a Random Forest to predict the **implied convenience yield 5 trading days ahead** — the hidden premium refineries pay to hold physical oil *right now* rather than buy it forward. Two macro signals augment the price data: a Weather Volatility Index (cold snaps spike heating oil demand overnight) and an Inventory Drawdown Ratio (big draws mean refineries are running hard).
+Pulled 10 years of WTI crude oil futures data and trained a Random Forest to predict the **implied convenience yield 5 trading days ahead** the hidden premium refineries pay to hold physical oil *right now* rather than buy it forward. Two macro signals augment the price data: a Weather Volatility Index (cold snaps spike heating oil demand overnight) and an Inventory Drawdown Ratio (big draws mean refineries are running hard).
 
 **Features used:** Spot price, implied convenience yield, weather volatility index, inventory drawdown ratio.
 
